@@ -1,2 +1,16 @@
-# skullking-mate
-Flutter 기반의 보드게임 스컬킹 점수 기록과 트릭 시뮬레이터를 제공하는 어플리케이션 (Flutter app: Skull King scorekeeper &amp; trick simulator)
+# skullking_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
